@@ -1,6 +1,6 @@
 {
   "name": "shiftgrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ShiftGrid's flexible grid structure allows you to customize your layout for any device size, so your website looks great on everything from mobile phones to large desktop monitors",
   "main": "shift-grid.css",
   "scripts": {
